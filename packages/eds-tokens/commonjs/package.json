@@ -1,4 +1,10 @@
 {
   "type": "commonjs",
-  "main": "../dist/tokens.cjs.js"
+  "main": "../dist/tokens.cjs.js",
+  "dependencies": {
+    "@mdx-js/react": "^2.1.1",
+    "@testing-library/dom": "^8.13.0",
+    "react-is": "^18.1.0",
+    "webpack": "^5.72.0"
+  }
 }

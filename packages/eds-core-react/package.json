@@ -97,10 +97,14 @@
     "@equinor/eds-icons": "workspace:*",
     "@equinor/eds-tokens": "workspace:*",
     "@equinor/eds-utils": "workspace:*",
+    "@mdx-js/react": "^2.1.1",
     "@popperjs/core": "2.9.2",
+    "@testing-library/dom": "^8.13.0",
     "downshift": "^6.1.7",
     "react-fast-compare": "3.2.0",
-    "react-popper": "2.2.5"
+    "react-is": "^18.1.0",
+    "react-popper": "2.2.5",
+    "webpack": "^5.72.0"
   },
   "engines": {
     "pnpm": ">=4",

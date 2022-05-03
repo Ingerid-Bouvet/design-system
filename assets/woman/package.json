@@ -5,6 +5,10 @@
     "dev": "browser-sync start --server '.' --files '*{html,css,svg}' --no-ui --no-open --watch --no-inject-changes"
   },
   "dependencies": {
-    "browser-sync": "^2.27.7"
+    "@mdx-js/react": "^2.1.1",
+    "@testing-library/dom": "^8.13.0",
+    "browser-sync": "^2.27.7",
+    "react-is": "^18.1.0",
+    "webpack": "^5.72.0"
   }
 }

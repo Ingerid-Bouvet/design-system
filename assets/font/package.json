@@ -7,8 +7,12 @@
     "serve": "http-server -p 9999"
   },
   "dependencies": {
+    "@mdx-js/react": "^2.1.1",
+    "@testing-library/dom": "^8.13.0",
     "bent": "^7.3.12",
     "http-server": "^14.0.0",
-    "subset-font": "^1.4.0"
+    "react-is": "^18.1.0",
+    "subset-font": "^1.4.0",
+    "webpack": "^5.72.0"
   }
 }

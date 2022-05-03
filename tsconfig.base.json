@@ -3,7 +3,7 @@
     /* do we really understand the implications of these settings? 🙄 */
     "target": "ES2015",
     "module": "esnext",
-    "lib": ["dom", "ES2015"],
+    "lib": ["dom", "ES2016"],
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "allowSyntheticDefaultImports": true,
